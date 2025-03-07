@@ -1,0 +1,50 @@
+.bodybg{
+    background-color:#0F4C75;
+    width: 100%;
+    min-height: 100vh;
+    padding: 10px;
+}
+.page{
+    width: 100%;
+  max-width: 1000px;
+  background-color: white ;
+  margin: 50px auto 20px;
+  padding-right: 30px;
+  padding-left: 30px;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  border-radius: 20px;
+
+}
+.text{
+    font-size: 40px;
+    font-weight: 300;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 30px;
+}
+
+.form-control{
+    height: 20px;
+    width: 350px;
+}
+.delbtn{
+    padding: 5px;
+    border-radius: 15px;
+    background-color: #D84040;
+    color: white;
+}
+.donebtn{
+    padding: 5px;
+    border-radius: 15px;
+    background-color: #89AC46;
+    color: white;
+}
+.format{
+    display: inline;
+    margin-left: 20px;
+    justify-content: end;
+}
+.abs{
+    display: absolute;
+    margin:50px;
+}
